@@ -2,8 +2,18 @@ body{
     color:whitesmoke;
     background-color: black;
     margin: 0px;
-    font-family: ;
+    font-family: 'Chakra Petch';
+    margin-bottom: 100px;
+}
+header{
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size:  32px;
+    color: rgb(42,122,228)
 
-
-
+}
+.chamada {...
+}
+.chamada-texto {
+    margin-right: 5%;
 }
